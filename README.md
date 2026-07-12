@@ -20,6 +20,7 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
   <tr>
     <td align="left" valign="top" width="33%">
       <h4>☁️ Salesforce Platform</h4>
+      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
       <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" />
       <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" />
       <img src="https://img.shields.io/badge/Copado-00BFFF?style=flat-square&logo=copado&logoColor=white" alt="Copado" />
@@ -41,7 +42,7 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
     </td>
     <td align="left" valign="top" width="34%">
       <h4>🤖 AI Tools & Modern IDEs</h4>
-      <img src="https://img.shields.io/badge/Salesforce%20Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Agentforce" />
+      <img src="https://img.shields.io/badge/Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Agentforce" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <br />
       <code>Claude Code</code> <code>Ollama</code> <code>LM Studio</code>
