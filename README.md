@@ -9,6 +9,7 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 *   🌟 **Trailhead Rank:** Ranger (Superbadges: *Agentforce Service*, *Prompt Builder*)
 *   🏆 **Community:** Agentblazer Champion & Innovator (2025, 2026)
+*   ⚙️ **DevOps & AI:** Copado Certified in Copado AI for Salesforce DevOps workflows.
 *   🔒 **Security Record:** Architected 3+ production-ready CRM solutions with zero security violations.
 
 ---
@@ -21,6 +22,7 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
       <h4>☁️ Salesforce Platform</h4>
       <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" />
       <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" />
+      <img src="https://img.shields.io/badge/Copado-00BFFF?style=flat-square&logo=copado&logoColor=white" alt="Copado" />
       <br />
       <code>Triggers</code> <code>Flows</code> <code>SOQL</code> <code>Platform Events</code>
       <br />
@@ -48,6 +50,15 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
     </td>
   </tr>
 </table>
+
+---
+
+## 📜 Certifications & Training
+
+*   🎓 **Copado Certified** — Copado AI (Salesforce DevOps Certification | ID: 071317)
+*   🛠️ **Salesforce Development + LWC Training** — S2 Labs (Completed June 2026)
+*   ⚙️ **Salesforce Administrator & App Builder Training** — S2 Labs (Completed March 2026)
+*   🧭 **Trailhead Ranger** — Superbadges: *Agentforce Service* & *Prompt Builder*
 
 ---
 
