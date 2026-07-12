@@ -1,15 +1,70 @@
-# 💫 About Me:
-Hi there, I'm Vishwajit Tidke 👋<br><br>Salesforce Developer & Administrator | Software Engineer <br><br>I am a Salesforce Developer and Software Engineer with a strong foundation in Apex, LWC, Agentforce, and modern web architectures. With an MCA background and experience spanning Salesforce ecosystems (Sales & Service Cloud) to full-stack Python environments, I focus on building secure, highly scalable, and API-driven CRM solutions. <br><br>🚀 Quick Summary<br>  🎓 Background: Master of Computer Applications (MCA)<br>  💼 Recent Experience: Software Engineer Intern at StartupZeroKm & Salesforce Developer Trainee at S2 Labs (by Salesforce Hulk)<br>  🧗 Trailhead Rank: Ranger 🌟 (Superbadges: Agentforce Service, Prompt Builder)<br>  🏆 Community: Agentblazer Champion & Innovator (2025, 2026)<br>  📍 Location: Bengaluru, India<br><br>🛠️ Tech Stack & Skills<br><br>  ☁️ Salesforce Core: Apex, LWC, Triggers, Flows, SOQL, Profiles/Permissions, Reports & Dashboards<br>  🤖 AI & Automation: Agentforce, Agent Builder, Prompt Builder, Platform Events<br>  💻 Programming: Java, JavaScript, Python, Django, C#, Bootstrap<br>  ⚙️ Integrations & Dev Tools: REST APIs, SFDX CLI, Git, GitHub, VS Code, Postman, Docker, PostgreSQL<br>  📈 Methodologies: Agile (Scrum), SDLC (Service-Domain-Selector patterns), Unit Testing (90%+ coverage)<br><br>💻 Featured Projects<br><br>  🍕 SmartMenu - AI-Powered Restaurant Platform<br>    A Salesforce-native application architected with 41 Apex classes utilizing enterprise design patterns.<br>    Integrated an Agentforce AI chatbot, real-time LWC dashboards, and 5 secure REST APIs with 90%+ test coverage.<br><br>  🍔 Foodsquare Web App<br>    Full-stack food aggregator platform built with Python/Django.<br>    Optimized backend queries reducing API latency by 20% and containerized deployments using Docker.<br><br>  🏦 Bank & Institute Management CRMs (S2 Labs Capstones)<br>    Configured secure banking and academic architectures enforcing advanced security models (OWD, FLS), Junction Objects, and automated business logic via Flows.<br><br>🤝 Connect with Me<br><br>  💼 LinkedIn: linkedin.com/in/vishwajittidke<br>  🧗 Trailblazer: trailblazer.me/id/vishwajittidke
+# 🚀 Vishwajit Tidke
+### **Salesforce Developer & Software Engineer**
+📍 Bengaluru, India  
+💼 vtidke56@gmail.com | 🧭 [Trailblazer Profile](https://trailblazer.me/id/vishwajittidke)
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajittidke) 
+## 💫 About Me
+I am a **Salesforce Developer & Software Engineer** specializing in building secure, highly scalable, and API-driven enterprise CRM solutions. With an MCA background, my expertise spans the Salesforce ecosystem (Sales & Service Cloud, Apex, LWC) to full-stack Python/Django environments. 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+*   🌟 **Trailhead Rank:** Ranger (Superbadges: *Agentforce Service*, *Prompt Builder*)
+*   🏆 **Community:** Agentblazer Champion & Innovator (2025, 2026)
+*   🔒 **Security Record:** Architected 3+ production-ready CRM solutions with zero security violations.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<table>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <h4>☁️ Salesforce & AI Automation</h4>
+      <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" />
+      <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" />
+      <img src="https://img.shields.io/badge/Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=black" alt="Agentforce" />
+      <br />
+      <code>Triggers</code> <code>Flows</code> <code>SOQL</code> <code>Platform Events</code> <code>Profiles & Permissions (OWD/FLS)</code> <code>Reports & Dashboards</code>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <h4>💻 Software Engineering & Backend</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <br />
+      <code>REST APIs</code> <code>PostgreSQL</code> <code>MySQL</code> <code>SQLite</code> <code>Docker</code> <code>Git & GitHub Actions</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Featured Projects
+
+### 🍕 [SmartMenu - AI-Powered Restaurant Platform](https://vishwajittidke.github.io/smartmenu)
+> **Salesforce-Native Enterprise App**
+*   **Architecture:** Engineered a secure Salesforce architecture featuring **41 Apex classes** utilizing the **Service-Domain-Selector enterprise pattern**.
+*   **AI Integration:** Built and deployed an **Agentforce AI chatbot** alongside real-time reactive LWC dashboards.
+*   **Integrations:** Developed 5 secure REST APIs with strict unit testing targeting **90%+ code coverage**.
+*   *Keywords: Apex, LWC, Agentforce, Platform Events, SFDX CLI, GitHub CI/CD*
+
+### 🍔 [Foodsquare Web App](https://github.com/vishwajittidke/Foodsquare-Web-App)
+> **Full-Stack Food Aggregator Platform**
+*   Designed **15+ RESTful APIs** managing critical user authentication and payment processing flows.
+*   Refactored legacy backend SQL queries, resulting in a **20% reduction in API latency** and a **25% bump in order processing speed**.
+*   Streamlined team engineering workflows and local environments using **Docker containerization**.
+*   *Keywords: Python, Django, PostgreSQL, Docker, Bootstrap*
+
+### 🏦 S2 Labs Enterprise Capstones
+*   **Bank Management System:** Configured a complex banking CRM enforcing strict financial security structures (Org-Wide Defaults, Field-Level Security) paired with automated balance calculations via Roll-Up Summaries.
+*   **Institute Management System:** Implemented clean data-entry safeguards using junction objects for complex many-to-many relationships and encrypted fields to guarantee **PII data protection**.
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vishwajittidke&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<br/>
+![](https://streak-stats.demolab.com?user=vishwajittidke&theme=dark&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
