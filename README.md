@@ -1,6 +1,5 @@
 # 🚀 Vishwajit Tidke
 ### **Salesforce Developer & Software Engineer**
-📍 Bengaluru, India  
 💼 vtidke56@gmail.com | 🧭 [Trailblazer Profile](https://trailblazer.me/id/vishwajittidke)
 
 ---
