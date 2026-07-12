@@ -1,6 +1,6 @@
 # 🚀 Vishwajit Tidke
 ### **Salesforce Developer & Software Engineer**
-💼 vtidke56@gmail.com | 🧭 [Trailblazer Profile](https://trailblazer.me/id/vishwajittidke)
+💼 [LinkedIn](https://linkedin.com/in/vishwajittidke) | 🧭 [Trailblazer Profile](https://trailblazer.me/id/vishwajittidke)
 
 ---
 
