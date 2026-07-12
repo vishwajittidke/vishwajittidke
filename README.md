@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there, I'm Vishwajit Tidke 👋<br><br>Salesforce Developer & Administrator | Software Engineer <br><br>I am a Salesforce Developer and Software Engineer with a strong foundation in Apex, LWC, Agentforce, and modern web architectures. With an MCA background and experience spanning Salesforce ecosystems (Sales & Service Cloud) to full-stack Python environments, I focus on building secure, highly scalable, and API-driven CRM solutions. <br><br>🚀 Quick Summary<br>  🎓 Background: Master of Computer Applications (MCA)<br>  💼 Recent Experience: Software Engineer Intern at StartupZeroKm & Salesforce Developer Trainee at S2 Labs (by Salesforce Hulk)<br>  🧗 Trailhead Rank: Ranger 🌟 (Superbadges: Agentforce Service, Prompt Builder)<br>  🏆 Community: Agentblazer Champion & Innovator (2025, 2026)<br>  📍 Location: Bengaluru, India<br><br>🛠️ Tech Stack & Skills<br><br>  ☁️ Salesforce Core: Apex, LWC, Triggers, Flows, SOQL, Profiles/Permissions, Reports & Dashboards<br>  🤖 AI & Automation: Agentforce, Agent Builder, Prompt Builder, Platform Events<br>  💻 Programming: Java, JavaScript, Python, Django, C#, Bootstrap<br>  ⚙️ Integrations & Dev Tools: REST APIs, SFDX CLI, Git, GitHub, VS Code, Postman, Docker, PostgreSQL<br>  📈 Methodologies: Agile (Scrum), SDLC (Service-Domain-Selector patterns), Unit Testing (90%+ coverage)<br><br>💻 Featured Projects<br><br>  🍕 SmartMenu - AI-Powered Restaurant Platform<br>    A Salesforce-native application architected with 41 Apex classes utilizing enterprise design patterns.<br>    Integrated an Agentforce AI chatbot, real-time LWC dashboards, and 5 secure REST APIs with 90%+ test coverage.<br><br>  🍔 Foodsquare Web App<br>    Full-stack food aggregator platform built with Python/Django.<br>    Optimized backend queries reducing API latency by 20% and containerized deployments using Docker.<br><br>  🏦 Bank & Institute Management CRMs (S2 Labs Capstones)<br>    Configured secure banking and academic architectures enforcing advanced security models (OWD, FLS), Junction Objects, and automated business logic via Flows.<br><br>🤝 Connect with Me<br><br>  💼 LinkedIn: linkedin.com/in/vishwajittidke<br>  🧗 Trailblazer: trailblazer.me/id/vishwajittidke
 
-<!--
-**vishwajittidke/vishwajittidke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajittidke) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vishwajittidke&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=vishwajittidke&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
