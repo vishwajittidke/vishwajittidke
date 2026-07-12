@@ -17,22 +17,34 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 <table>
   <tr>
-    <td align="left" valign="top" width="50%">
-      <h4>☁️ Salesforce & AI Automation</h4>
+    <td align="left" valign="top" width="33%">
+      <h4>☁️ Salesforce Platform</h4>
       <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" />
       <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" />
-      <img src="https://img.shields.io/badge/Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=black" alt="Agentforce" />
       <br />
-      <code>Triggers</code> <code>Flows</code> <code>SOQL</code> <code>Platform Events</code> <code>Profiles & Permissions (OWD/FLS)</code> <code>Reports & Dashboards</code>
+      <code>Triggers</code> <code>Flows</code> <code>SOQL</code> <code>Platform Events</code>
+      <br />
+      <code>Profiles & Permissions (OWD/FLS)</code>
+      <br />
+      <code>Reports & Dashboards</code>
     </td>
-    <td align="left" valign="top" width="50%">
-      <h4>💻 Software Engineering & Backend</h4>
+    <td align="left" valign="top" width="33%">
+      <h4>💻 Software Engineering</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <br />
-      <code>REST APIs</code> <code>PostgreSQL</code> <code>MySQL</code> <code>SQLite</code> <code>Docker</code> <code>Git & GitHub Actions</code>
+      <code>REST APIs</code> <code>PostgreSQL</code> <code>MySQL</code> <code>SQLite</code> <code>Docker</code>
+    </td>
+    <td align="left" valign="top" width="34%">
+      <h4>🤖 AI Tools & Modern IDEs</h4>
+      <img src="https://img.shields.io/badge/Salesforce%20Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Agentforce" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <br />
+      <code>Claude Code</code> <code>Ollama</code> <code>LM Studio</code>
+      <br />
+      <code>Antigravity IDE</code> <code>Agent Builder</code>
     </td>
   </tr>
 </table>
