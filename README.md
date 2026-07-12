@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-I am a **Salesforce Developer & Software Engineer** specializing in building secure, highly scalable, and API-driven enterprise CRM solutions. With an MCA background, my expertise spans the Salesforce ecosystem (Sales & Service Cloud, Apex, LWC) to full-stack Python/Django environments. 
+I am a **Salesforce Developer & Software Engineer** specializing in building secure, highly scalable, and API-driven enterprise CRM solutions. With an MCA background, my expertise spans the Salesforce ecosystem (Sales & Service Cloud, Apex, LWC) to full-stack Python/Django environments.
 
 *   🌟 **Trailhead Rank:** Ranger (Superbadges: *Agentforce Service*, *Prompt Builder*)
 *   🏆 **Community:** Agentblazer Champion & Innovator (2025, 2026)
@@ -23,13 +23,13 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
       <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
       <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" />
       <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" />
+      <img src="https://img.shields.io/badge/Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Agentforce" />
       <img src="https://img.shields.io/badge/Copado-00BFFF?style=flat-square&logo=copado&logoColor=white" alt="Copado" />
-      <br />
-      <code>Triggers</code> <code>Flows</code> <code>SOQL</code> <code>Platform Events</code>
-      <br />
-      <code>Profiles & Permissions (OWD/FLS)</code>
-      <br />
-      <code>Reports & Dashboards</code>
+      <ul>
+        <li>Config: <code>Flows</code>, <code>Profiles/Permissions (OWD/FLS)</code></li>
+        <li>Dev: <code>Triggers</code>, <code>SOQL</code>, <code>Platform Events</code></li>
+        <li>DevOps: <code>SFDX CLI</code>, <code>Scratch Orgs</code>, <code>CI/CD Pipelines</code></li>
+      </ul>
     </td>
     <td align="left" valign="top" width="33%">
       <h4>💻 Software Engineering</h4>
@@ -37,17 +37,22 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <br />
-      <code>REST APIs</code> <code>PostgreSQL</code> <code>MySQL</code> <code>SQLite</code> <code>Docker</code>
+      <ul>
+        <li>Backend: <code>Django</code>, <code>REST APIs</code></li>
+        <li>Databases: <code>PostgreSQL</code>, <code>MySQL</code>, <code>SQLite</code></li>
+        <li>Containers: <code>Docker</code>, <code>Git & GitHub Actions</code></li>
+      </ul>
     </td>
     <td align="left" valign="top" width="34%">
       <h4>🤖 AI Tools & Modern IDEs</h4>
-      <img src="https://img.shields.io/badge/Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Agentforce" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <br />
-      <code>Claude Code</code> <code>Ollama</code> <code>LM Studio</code>
-      <br />
-      <code>Antigravity IDE</code> <code>Agent Builder</code>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <ul>
+        <li>AI Engine: <code>Claude Code</code>, <code>Agent Builder</code></li>
+        <li>Local LLMs: <code>Ollama</code>, <code>LM Studio</code></li>
+        <li>Environments: <code>Antigravity IDE</code>, <code>VS Code Extensions</code></li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -57,8 +62,8 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 ## 📜 Certifications & Training
 
 *   🎓 **Copado Certified** — Copado AI (Salesforce DevOps Certification | ID: 071317)
-*   🛠️ **Salesforce Development + LWC Training** — S2 Labs (Completed June 2026)
-*   ⚙️ **Salesforce Administrator & App Builder Training** — S2 Labs (Completed March 2026)
+*   🛠️ **Salesforce Development + LWC Training** — [S2 Labs by Shrey Sharma](https://drive.google.com/file/d/1zGT5RGB_kW...) (Completed June 2026)
+*   ⚙️ **Salesforce Administrator & App Builder Training** — [S2 Labs by Shrey Sharma](https://drive.google.com/file/d/1zGT5RGB_kW...) (Completed March 2026)
 *   🧭 **Trailhead Ranger** — Superbadges: *Agentforce Service* & *Prompt Builder*
 
 ---
@@ -67,21 +72,19 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 ### 🍕 [SmartMenu - AI-Powered Restaurant Platform](https://vishwajittidke.github.io/smartmenu)
 > **Salesforce-Native Enterprise App**
-*   **Architecture:** Engineered a secure Salesforce architecture featuring **41 Apex classes** utilizing the **Service-Domain-Selector enterprise pattern**.
-*   **AI Integration:** Built and deployed an **Agentforce AI chatbot** alongside real-time reactive LWC dashboards.
-*   **Integrations:** Developed 5 secure REST APIs with strict unit testing targeting **90%+ code coverage**.
-*   *Keywords: Apex, LWC, Agentforce, Platform Events, SFDX CLI, GitHub CI/CD*
+*   **Architecture:** Engineered a secure Salesforce architecture featuring **41 Apex classes** utilizing the **Service-Domain-Selector enterprise pattern** paired with custom validation rules.
+*   **AI Integration:** Built and deployed a functional **Agentforce AI chatbot** alongside real-time reactive LWC dashboards and custom Platform Events.
+*   **Integrations & Tooling:** Developed 5 secure Apex REST APIs managed via SFDX CLI and verified through GitHub CI/CD workflows with **90%+ code coverage**.
 
 ### 🍔 [Foodsquare Web App](https://github.com/vishwajittidke/Foodsquare-Web-App)
 > **Full-Stack Food Aggregator Platform**
-*   Designed **15+ RESTful APIs** managing critical user authentication and payment processing flows.
-*   Refactored legacy backend SQL queries, resulting in a **20% reduction in API latency** and a **25% bump in order processing speed**.
-*   Streamlined team engineering workflows and local environments using **Docker containerization**.
-*   *Keywords: Python, Django, PostgreSQL, Docker, Bootstrap*
+*   **API Engineering:** Designed **15+ RESTful APIs** utilizing Python and Django to manage user authentication modules and downstream payment processing flows.
+*   **Performance Tuning:** Refactored legacy backend PostgreSQL queries, resulting in a **20% reduction in API latency** and a **25% speed enhancement for order processing**.
+*   **Infrastructure:** Streamlined localized engineering workflows and deployment containerization practices using **Docker** and Bootstrap styling elements.
 
 ### 🏦 S2 Labs Enterprise Capstones
-*   **Bank Management System:** Configured a complex banking CRM enforcing strict financial security structures (Org-Wide Defaults, Field-Level Security) paired with automated balance calculations via Roll-Up Summaries.
-*   **Institute Management System:** Implemented clean data-entry safeguards using junction objects for complex many-to-many relationships and encrypted fields to guarantee **PII data protection**.
+*   **Bank Management System:** Configured a complex banking CRM enforcing strict financial data privacy structures (Org-Wide Defaults, Field-Level Security) paired with automated account balance metrics via Roll-Up Summaries.
+*   **Institute Management System:** Implemented data-entry validation rules using junction objects for complex many-to-many business relationships and encrypted fields to guarantee **PII data protection**.
 
 ---
 
