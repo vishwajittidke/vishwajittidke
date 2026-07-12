@@ -96,8 +96,8 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 ## 📊 Developer Dashboard & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vishwajittidke&theme=dark&hide_border=true" width="70%" />
