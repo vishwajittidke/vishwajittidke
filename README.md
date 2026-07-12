@@ -1,16 +1,25 @@
 # 🚀 Vishwajit Tidke
 ### **Salesforce Developer & Software Engineer**
-💼 [LinkedIn](https://linkedin.com/in/vishwajittidke) | 🧭 [Trailblazer Profile](https://trailblazer.me/id/vishwajittidke)
+
+<p align="left">
+  <a href="https://linkedin.com/in/vishwajittidke" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://trailblazer.me/id/vishwajittidke" target="_blank">
+    <img src="https://img.shields.io/badge/Trailblazer-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer" />
+  </a>
+</p>
 
 ---
 
 ## 💫 About Me
 I am a **Salesforce Developer & Software Engineer** specializing in building secure, highly scalable, and API-driven enterprise CRM solutions. With an MCA background, my expertise spans the Salesforce ecosystem (Sales & Service Cloud, Apex, LWC) to full-stack Python/Django environments.
 
-*   🌟 **Trailhead Rank:** Ranger (Superbadges: *Agentforce Service*, *Prompt Builder*)
-*   🏆 **Community:** Agentblazer Champion & Innovator (2025, 2026)
-*   ⚙️ **DevOps & AI:** Copado Certified in Copado AI for Salesforce DevOps workflows.
-*   🔒 **Security Record:** Architected 3+ production-ready CRM solutions with zero security violations.
+> 🏆 **Community & Frameworks**
+> *   🌟 **Trailhead Rank:** Ranger (Superbadges: *Agentforce Service*, *Prompt Builder*)
+> *   🏆 **Community:** Agentblazer Champion & Innovator (2025, 2026)
+> *   ⚙️ **DevOps & AI:** Copado Certified in Copado AI for Salesforce DevOps workflows.
+> *   🔒 **Security Record:** Architected 3+ production-ready CRM solutions with zero security violations.
 
 ---
 
@@ -18,40 +27,43 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 <table>
   <tr>
-    <td align="left" valign="top" width="33%">
-      <h4>☁️ Salesforce Platform</h4>
+    <td align="left" valign="top" width="33%" bgcolor="#0d1117">
+      <h3>☁️ Salesforce Platform</h3>
+      <hr />
       <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
       <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" />
       <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" />
       <img src="https://img.shields.io/badge/Agentforce-1798C1?style=flat-square&logo=salesforce&logoColor=white" alt="Agentforce" />
       <img src="https://img.shields.io/badge/Copado-00BFFF?style=flat-square&logo=copado&logoColor=white" alt="Copado" />
       <ul>
-        <li>Config: <code>Flows</code>, <code>Profiles/Permissions (OWD/FLS)</code></li>
-        <li>Dev: <code>Triggers</code>, <code>SOQL</code>, <code>Platform Events</code></li>
-        <li>DevOps: <code>SFDX CLI</code>, <code>Scratch Orgs</code>, <code>CI/CD Pipelines</code></li>
+        <li><strong>Config:</strong> <code>Flows</code>, <code>OWD/FLS</code></li>
+        <li><strong>Dev:</strong> <code>Triggers</code>, <code>SOQL</code>, <code>Platform Events</code></li>
+        <li><strong>DevOps:</strong> <code>SFDX CLI</code>, <code>Scratch Orgs</code></li>
       </ul>
     </td>
-    <td align="left" valign="top" width="33%">
-      <h4>💻 Software Engineering</h4>
+    <td align="left" valign="top" width="33%" bgcolor="#0d1117">
+      <h3>💻 Software Engineering</h3>
+      <hr />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <ul>
-        <li>Backend: <code>Django</code>, <code>REST APIs</code></li>
-        <li>Databases: <code>PostgreSQL</code>, <code>MySQL</code>, <code>SQLite</code></li>
-        <li>Containers: <code>Docker</code>, <code>Git & GitHub Actions</code></li>
+        <li><strong>Backend:</strong> <code>Django REST APIs</code></li>
+        <li><strong>Databases:</strong> <code>PostgreSQL</code>, <code>MySQL</code>, <code>SQLite</code></li>
+        <li><strong>Containers:</strong> <code>Docker</code>, <code>GitHub Actions</code></li>
       </ul>
     </td>
-    <td align="left" valign="top" width="34%">
-      <h4>🤖 AI Tools & Modern IDEs</h4>
+    <td align="left" valign="top" width="34%" bgcolor="#0d1117">
+      <h3>🤖 AI & Tools</h3>
+      <hr />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
       <ul>
-        <li>AI Engine: <code>Claude Code</code>, <code>Agent Builder</code></li>
-        <li>Local LLMs: <code>Ollama</code>, <code>LM Studio</code></li>
-        <li>Environments: <code>Antigravity IDE</code>, <code>VS Code Extensions</code></li>
+        <li><strong>AI Assist:</strong> <code>Claude Code</code>, <code>Agent Builder</code></li>
+        <li><strong>Local LLMs:</strong> <code>Ollama</code>, <code>LM Studio</code></li>
+        <li><strong>IDEs:</strong> <code>Antigravity IDE</code></li>
       </ul>
     </td>
   </tr>
@@ -59,38 +71,45 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 ---
 
-## 📜 Certifications & Training
+## 💻 Featured Architecture & Projects
 
-*   🎓 **Copado Certified** — Copado AI (Salesforce DevOps Certification | ID: 071317)
-*   🛠️ **Salesforce Development + LWC Training** — [S2 Labs by Shrey Sharma] (Completed June 2026)
-*   ⚙️ **Salesforce Administrator & App Builder Training** — [S2 Labs by Shrey Sharma] (Completed March 2026)
-*   🧭 **Trailhead Ranger** — Superbadges: *Agentforce Service* & *Prompt Builder*
-
----
-
-## 💻 Featured Projects
-
-### 🍕 [SmartMenu - AI-Powered Restaurant Platform](https://vishwajittidke.github.io/smartmenu)
-> **Salesforce-Native Enterprise App**
-*   **Architecture:** Engineered a secure Salesforce architecture featuring **41 Apex classes** utilizing the **Service-Domain-Selector enterprise pattern** paired with custom validation rules.
-*   **AI Integration:** Built and deployed a functional **Agentforce AI chatbot** alongside real-time reactive LWC dashboards and custom Platform Events.
-*   **Integrations & Tooling:** Developed 5 secure Apex REST APIs managed via SFDX CLI and verified through GitHub CI/CD workflows with **90%+ code coverage**.
+### 🍕 [SmartMenu — AI-Powered Restaurant Platform](https://vishwajittidke.github.io/smartmenu)
+```🌟 STATUS: Production Ready  |  📊 TEST COVERAGE: 90%+  |  🔒 SECURITY: Verified```
+*   **Architecture:** Engineered an enterprise-scale Salesforce application featuring **41 Apex classes** structured around the strict **Service-Domain-Selector pattern**.
+*   **AI Integration:** Deployed a contextual **Agentforce AI chatbot** synced dynamically via custom Platform Events.
+*   **Integrations:** Published 5 secure REST endpoints backed by rigorous automated unit testing models.
 
 ### 🍔 [Foodsquare Web App](https://github.com/vishwajittidke/Foodsquare-Web-App)
-> **Full-Stack Food Aggregator Platform**
-*   **API Engineering:** Designed **15+ RESTful APIs** utilizing Python and Django to manage user authentication modules and downstream payment processing flows.
-*   **Performance Tuning:** Refactored legacy backend PostgreSQL queries, resulting in a **20% reduction in API latency** and a **25% speed enhancement for order processing**.
-*   **Infrastructure:** Streamlined localized engineering workflows and deployment containerization practices using **Docker** and Bootstrap styling elements.
+```🚀 STATUS: Completed  |  ⚡ LATENCY: -20%  |  📦 ENGINE: Dockerized```
+*   **Backend Engineering:** Scaled a full-stack food aggregator platform running a custom **Python/Django core Engine** managing **15+ RESTful APIs**.
+*   **Optimization:** Restructured legacy PostgreSQL query bottlenecks, introducing a **20% reduction in API response times** and **25% faster overall order execution**.
 
-### 🏦 S2 Labs Enterprise Capstones
-*   **Bank Management System:** Configured a complex banking CRM enforcing strict financial data privacy structures (Org-Wide Defaults, Field-Level Security) paired with automated account balance metrics via Roll-Up Summaries.
-*   **Institute Management System:** Implemented data-entry validation rules using junction objects for complex many-to-many business relationships and encrypted fields to guarantee **PII data protection**.
+### 🏦 S2 Labs Capstone Deep Dives
+*   **Enterprise Banking CRM:** Implemented bulletproof financial record shielding via precise Org-Wide Defaults (OWD) and Field-Level Security (FLS) frameworks.
+*   **Academic Architecture Solution:** Designed secure relational schemas incorporating custom junction objects for clean many-to-many parsing and advanced PII data masking protocols.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-<br/>
-![](https://streak-stats.demolab.com?user=vishwajittidke&theme=dark&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📜 Certifications & Training
+
+*   🥇 **Copado Certified** — Copado AI *(Salesforce DevOps | ID: 071317)*
+*   🎓 **Salesforce Development + LWC** — [S2 Labs Completion Profile](https://drive.google.com/file/d/1zGT5RGB_kW...)
+*   🎓 **Salesforce Administrator & App Builder** — [S2 Labs Completion Profile](https://drive.google.com/file/d/1zGT5RGB_kW...)
+*   🧭 **Trailhead Ranger Status** — *Specializing in Agentforce Service & Prompt Builder modules.*
+
+---
+
+## 📊 Developer Dashboard & Metrics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="100%" />
+      <br />
+      <img src="https://streak-stats.demolab.com?user=vishwajittidke&theme=dark&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
