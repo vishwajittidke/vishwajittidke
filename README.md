@@ -62,8 +62,8 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 ## 📜 Certifications & Training
 
 *   🎓 **Copado Certified** — Copado AI (Salesforce DevOps Certification | ID: 071317)
-*   🛠️ **Salesforce Development + LWC Training** — [S2 Labs by Shrey Sharma](https://drive.google.com/file/d/1zGT5RGB_kW...) (Completed June 2026)
-*   ⚙️ **Salesforce Administrator & App Builder Training** — [S2 Labs by Shrey Sharma](https://drive.google.com/file/d/1zGT5RGB_kW...) (Completed March 2026)
+*   🛠️ **Salesforce Development + LWC Training** — [S2 Labs by Shrey Sharma] (Completed June 2026)
+*   ⚙️ **Salesforce Administrator & App Builder Training** — [S2 Labs by Shrey Sharma] (Completed March 2026)
 *   🧭 **Trailhead Ranger** — Superbadges: *Agentforce Service* & *Prompt Builder*
 
 ---
