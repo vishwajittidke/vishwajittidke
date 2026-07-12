@@ -1,19 +1,12 @@
 # 🚀 Vishwajit Tidke
 ### **Salesforce Developer & Software Engineer**
 
-<p align="left">
-  <a href="https://linkedin.com/in/vishwajittidke" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://trailblazer.me/id/vishwajittidke" target="_blank">
-    <img src="https://img.shields.io/badge/Trailblazer-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajittidke) [![Trailblazer](https://img.shields.io/badge/Trailblazer-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/vishwajittidke)
 
 ---
 
 ## 💫 About Me
-I am a **Salesforce Developer & Software Engineer** specializing in building secure, highly scalable, and API-driven enterprise CRM solutions. With an MCA background, my expertise spans the Salesforce ecosystem (Sales & Service Cloud, Apex, LWC) to full-stack Python/Django environments.
+I am a **Salesforce Developer & Software Engineer** specializing in building secure, highly scalable, and API-driven enterprise CRM solutions. With an MCA background, my expertise spans the Salesforce ecosystem (Sales & Service Cloud, Apex, LWC) to full-stack Python/Django and modern JavaScript environments.
 
 > 🏆 **Community & Frameworks**
 > *   🌟 **Trailhead Rank:** Ranger (Superbadges: *Agentforce Service*, *Prompt Builder*)
@@ -42,16 +35,17 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
       </ul>
     </td>
     <td align="left" valign="top" width="33%" bgcolor="#0d1117">
-      <h3>💻 Software Engineering</h3>
+      <h3>💻 Web & Backend Engineering</h3>
       <hr />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React_JS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <ul>
-        <li><strong>Backend:</strong> <code>Django REST APIs</code></li>
-        <li><strong>Databases:</strong> <code>PostgreSQL</code>, <code>MySQL</code>, <code>SQLite</code></li>
-        <li><strong>Containers:</strong> <code>Docker</code>, <code>GitHub Actions</code></li>
+        <li><strong>Frontend:</strong> <code>HTML5</code>, <code>CSS3</code>, <code>React</code>, <code>Angular</code></li>
+        <li><strong>Backend & OOP:</strong> <code>Django REST APIs</code>, <code>Java</code>, <code>C#</code></li>
+        <li><strong>Data & Arch:</strong> <code>PostgreSQL</code>, <code>Docker</code>, <code>GitHub Actions</code></li>
       </ul>
     </td>
     <td align="left" valign="top" width="34%" bgcolor="#0d1117">
@@ -101,15 +95,10 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 ## 📊 Developer Dashboard & Metrics
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="100%" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=vishwajittidke&theme=dark&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajittidke&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishwajittidke&theme=dark&hide_border=true" width="70%" />
+</p>
