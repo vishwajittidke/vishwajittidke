@@ -67,6 +67,12 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 ## 💻 Featured Architecture & Projects
 
+### ☁️ [Data Cloud Harmonizer](https://github.com/vishwajittidke/data-cloud-harmonizer)
+```🌟 STATUS: Data Engineering Focus |  🧪 TEST COVERAGE: 100% Core  |  🤖 AI: Agentforce Integrated```
+*   **Identity Resolution Engine:** Architected a high-volume `Batch Apex` framework utilizing phonetic algorithms (Soundex) for automated cross-system fuzzy matching.
+*   **Enterprise LWC Dashboard:** Developed a dynamic Lightning Web Component interface featuring an interactive **D3.js Lineage Graph**, strict SLDS compliance, and a "Human-in-the-Loop" manual resolution queue.
+*   **Agentforce Insights:** Built robust simulated AI integrations providing instant cross-cloud actionable intelligence (Next Best Action) directly inside the Unified Customer 360 view.
+
 ### 🍕 [SmartMenu — AI-Powered Restaurant Platform](https://vishwajittidke.github.io/smartmenu)
 ```🌟 STATUS: Production Ready  |  📊 TEST COVERAGE: 90%+  |  🔒 SECURITY: Verified```
 *   **Architecture:** Engineered an enterprise-scale Salesforce application featuring **41 Apex classes** structured around the strict **Service-Domain-Selector pattern**.
