@@ -67,6 +67,13 @@ I am a **Salesforce Developer & Software Engineer** specializing in building sec
 
 ## 💻 Featured Architecture & Projects
 
+### ☁️ [Salesforce File Replication System](https://github.com/vishwajittidke/Salesforce-File-Replication)
+```🚀 STATUS: Production Ready |  ⚡ INTEGRATION: Node.js/Express  |  📦 ENGINE: Salesforce CLI```
+*   **Architecture:** Built a custom Salesforce application using **LWC and Apex** to automate real-time file syncing to external targets like **AWS S3 and SFTP**.
+*   **Middleware:** Developed a **Node.js/Express middleware server** to securely tunnel data and bypass standard Salesforce file size limitations (50MB+).
+*   **Optimization:** Optimized system performance using **Platform Events and Queueable Apex** to process high-volume uploads asynchronously without hitting governor limits.
+*   **Packaging:** Packaged and Deployed the entire solution as a standalone **Salesforce Package** via Salesforce CLI, successfully installing and configuring it in a live org environment.
+
 ### ☁️ [Data Cloud Harmonizer](https://github.com/vishwajittidke/data-cloud-harmonizer)
 ```🌟 STATUS: Data Engineering Focus |  🧪 TEST COVERAGE: 100% Core  |  🤖 AI: Agentforce Integrated```
 *   **Identity Resolution Engine:** Architected a high-volume `Batch Apex` framework utilizing phonetic algorithms (Soundex) for automated cross-system fuzzy matching.
