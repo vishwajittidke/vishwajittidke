@@ -1,4 +1,4 @@
-# 🚀 Vishwajit Tidke
+# 🚀 Vishwajitt Tidkke
 ### **Salesforce Developer & Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajittidke) [![Trailblazer](https://img.shields.io/badge/Trailblazer-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/vishwajittidke)
